@@ -1,0 +1,6 @@
+{
+  "name": "CallVault",
+  "description": "Self-contained call recording, on-device transcription, and call summarization for Android.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
